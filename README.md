@@ -1,8 +1,7 @@
-### BrunoRV, a.k.a. **[HighGen, the Unbounded](https://steamcommunity.com/id/highgen)**
+### BrunoRV
 
 > I'm an intellectually independent, seasoned developer.
 
-I worked for [LoopKey](https://www.loopkey.com.br) for several years on their access control app and developed Açaí Official's sales and customer apps.
+Currently I work for [BEES](https://mybees.com.br/) as an iOS developer.
 
-Currently I'm working on my non-techinical skills and *psyching up* for my next endeavour.
-
+In the past, I've worked for [LoopKey](https://www.loopkey.com.br) for several years on their access control app; As a freelancer, I've developed Açaí Official's sales and customer apps.
